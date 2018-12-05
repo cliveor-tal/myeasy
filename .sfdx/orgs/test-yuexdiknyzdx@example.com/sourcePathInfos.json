@@ -1,0 +1,803 @@
+[
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app",
+        {
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543990477097,
+            "changeTime": 1543990477097,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main",
+        {
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543990477097,
+            "changeTime": 1543990477097,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499232,
+            "changeTime": 1543996499232,
+            "contentHash": "407f569bafb061bcd4b838c38d6c2b07086fd537"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543990477098,
+            "changeTime": 1543990477098,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy",
+        {
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543990507574,
+            "changeTime": 1543990507574,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6586,
+            "modifiedTime": 1543996498823,
+            "changeTime": 1543996498823,
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1543996498836,
+            "changeTime": 1543996498836,
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1543996498845,
+            "changeTime": 1543996498845,
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1543996498854,
+            "changeTime": 1543996498854,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2018,
+            "modifiedTime": 1543996498885,
+            "changeTime": 1543996498885,
+            "contentHash": "fdd8fb463525fb3eea8eeaaeb6914cafd8aeec80"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2337,
+            "modifiedTime": 1543996498892,
+            "changeTime": 1543996498892,
+            "contentHash": "75e829560a3a6ecf00e62d536ef6dec0547929d5"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1543996498897,
+            "changeTime": 1543996498897,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 591,
+            "modifiedTime": 1543996498902,
+            "changeTime": 1543996498902,
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1543996498907,
+            "changeTime": 1543996498907,
+            "contentHash": "0bca3544602822cdb8e7f51b5bb7142a4f310df9"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimun_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimun_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1543996498911,
+            "changeTime": 1543996498911,
+            "contentHash": "6f0be4bfc8351670dbd43a31cfd23f743553f5d2"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1543996498916,
+            "changeTime": 1543996498916,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1543996498920,
+            "changeTime": 1543996498920,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1543996498925,
+            "changeTime": 1543996498925,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 464,
+            "modifiedTime": 1543996498929,
+            "changeTime": 1543996498929,
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2027,
+            "modifiedTime": 1543996498969,
+            "changeTime": 1543996498969,
+            "contentHash": "7e8247c5272f1cc72246f8cb36e643155a1ff209"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543996498976,
+            "changeTime": 1543996498976,
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543996498980,
+            "changeTime": 1543996498980,
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1543996498985,
+            "changeTime": 1543996498985,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1543996498990,
+            "changeTime": 1543996498990,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1543996498994,
+            "changeTime": 1543996498994,
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543996498998,
+            "changeTime": 1543996498998,
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1543996499002,
+            "changeTime": 1543996499002,
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1543996499007,
+            "changeTime": 1543996499007,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1543996499011,
+            "changeTime": 1543996499011,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1543996499014,
+            "changeTime": 1543996499014,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1543996499018,
+            "changeTime": 1543996499018,
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2012,
+            "modifiedTime": 1543996499055,
+            "changeTime": 1543996499055,
+            "contentHash": "1f1afdbe565dad67f2c0b036448a35dd01e7c20f"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1543996499059,
+            "changeTime": 1543996499059,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1543996499063,
+            "changeTime": 1543996499063,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1543996499068,
+            "changeTime": 1543996499068,
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1543996499072,
+            "changeTime": 1543996499072,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1543996499076,
+            "changeTime": 1543996499076,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1543996499094,
+            "changeTime": 1543996499094,
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3470,
+            "modifiedTime": 1543996499107,
+            "changeTime": 1543996499107,
+            "contentHash": "5df9b22c6b80a875e7c94d320b2483cb4beff429"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1543996499118,
+            "changeTime": 1543996499118,
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1543996499135,
+            "changeTime": 1543996499135,
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1543996499156,
+            "changeTime": 1543996499156,
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3208,
+            "modifiedTime": 1543996499173,
+            "changeTime": 1543996499173,
+            "contentHash": "419481d1a16b8b514310eb0cb28c77789ca81afa"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1543996499189,
+            "changeTime": 1543996499189,
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9456,
+            "modifiedTime": 1543996499219,
+            "changeTime": 1543996499219,
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8862,
+            "modifiedTime": 1543996499237,
+            "changeTime": 1543996499237,
+            "contentHash": "e8f7fc42cfbf6ad69d7d4461610b64081206bc6f"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9202,
+            "modifiedTime": 1543996499256,
+            "changeTime": 1543996499256,
+            "contentHash": "e44384a5c03b9bc9b32cfa3281a067f1e2a524c2"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8866,
+            "modifiedTime": 1543996499271,
+            "changeTime": 1543996499271,
+            "contentHash": "6875f96fe700c47b3268f26fb69226e558d6395c"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23386,
+            "modifiedTime": 1543996499294,
+            "changeTime": 1543996499294,
+            "contentHash": "ac5e477d3a3300e8ca56379086cfdbca725377e1"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996498854,
+            "changeTime": 1543996498854,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996498890,
+            "changeTime": 1543996498890,
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499093,
+            "changeTime": 1543996499093,
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996498929,
+            "changeTime": 1543996498929,
+            "contentHash": "3301029e0dcd666692c7e05cf204e5e5809477ac"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996498974,
+            "changeTime": 1543996498974,
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499018,
+            "changeTime": 1543996499018,
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499058,
+            "changeTime": 1543996499058,
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499076,
+            "changeTime": 1543996499076,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499094,
+            "changeTime": 1543996499094,
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499094,
+            "changeTime": 1543996499094,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499218,
+            "changeTime": 1543996499218,
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+        }
+    ],
+    [
+        "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\clive\\Salesforce\\LightningWorkshop2018\\dev\\myeasy\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543996499294,
+            "changeTime": 1543996499294,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
